@@ -1,0 +1,19 @@
+{
+  "name": "projekt-1.5",
+  "version": "1.0.0",
+  "description": "project nodejs npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "npm",
+    "nauka"
+  ],
+  "author": "lukasz",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
